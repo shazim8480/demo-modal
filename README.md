@@ -1,4 +1,4 @@
-```
+```typescript
 
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment } from "react";
