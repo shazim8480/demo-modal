@@ -85,7 +85,7 @@ export default function Modal({
 
 This modal component is built with best practices in mind, ensuring its maintainability, reliability, and accessibility:
 
-**1. Modular Design:** Simplifies future modifications and maintenance.
-**2. Accessibility:** Prioritizes appropriate semantic elements and adherence to accessibility guidelines.
-**3. Code Clarity and Documentation:** Clear code structure and comments facilitate understanding and collaboration.
+**1. Modular Design:** Simplifies future modifications and maintenance.  
+**2. Accessibility:** Prioritizes appropriate semantic elements and adherence to accessibility guidelines.  
+**3. Code Clarity and Documentation:** Clear code structure and comments facilitate understanding and collaboration.  
 
